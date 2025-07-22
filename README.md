@@ -31,14 +31,6 @@ Este repositório contém uma sequência de exercícios organizados por níveis 
 npm install
 ```
 
-### Rodar cada exercício com ts-node
-
-```bash
-npx ts-node nivel1/tipos.ts
-npx ts-node nivel2/carro.ts
-# etc...
-```
-
 ### Prisma (nível4 e desafio-final)
 
 - Gerar cliente Prisma:
